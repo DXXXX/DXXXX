@@ -1,2 +1,2 @@
 # DXXXX
-Python beginners
+Python beginner
